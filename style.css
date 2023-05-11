@@ -1,6 +1,6 @@
 button{
     position: relative;
-    left: 650px;
+    left: 850px;
     top: 25px;
     color: black;
     text-decoration: none;
@@ -16,7 +16,7 @@ button{
 }
 
 img{
-    left: 250px;
+    left: 450px;
     position: relative;
     top: 25px;
 }
